@@ -1,3 +1,5 @@
+非标准iBase4J项目，测试用项目
+
 ## iBas4J项目简介
 
 - iBase4J是Java语言的分布式系统架构。 使用Spring整合开源框架。
@@ -44,30 +46,9 @@
     * 生产环境打包命令：
     	 clean package -P product -f pom-sys-service-server.xml
     	 clean package -P product -f pom-sys-service-server.xml
-    
+
 ## 版权声明
 iBase4J使用 [Apache License 2.0][] 协议.
 
 ## 建议
 可以先看一下拆分前的版本，地址：[iBase4J-old][].
-
-## 加入QQ群[538240548](http://shang.qq.com/wpa/qunwpa?idkey=b0fb32618d54e6a7f3cb718cd469b2952c8a968b1ef6f17fd68c83338ae4bce3) [498085331](http://shang.qq.com/wpa/qunwpa?idkey=0a7344955bb9b9f6e366d34be42c02709c933f308ab435b1a52ac17d40efdff5)
-交流技术问题，下载项目文档和一键启动依赖服务工具。
-
-![QQ群](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/1464169485871.png "QQ群一")
-![QQ群](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/1482378175294.png "QQ群二")
-
-## UI效果图
-
-![登录](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/login.png "登录")
-![主页](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/index.png "主页")
-![接口](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/swagger.png "接口")
-
-## License
-iBase4J is released under version 2.0 of the [Apache License][].
-
-![捐赠](http://git.oschina.net/iBase4J/iBase4J/raw/master/img/contribute.png "捐赠")
-
-[Apache License 2.0]: http://www.apache.org/licenses/LICENSE-2.0
-[iBase4J-old]: http://git.oschina.net/iBase4J/iBase4J/tree/NoSplit
-[Apache License]: http://www.apache.org/licenses/LICENSE-2.0
